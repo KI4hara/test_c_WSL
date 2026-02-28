@@ -3,7 +3,7 @@
 
 int main(void)
 {
-    printf("hello world\n");
-    printf("こんにちはセカイ\n");
+    printf("hello\tworld\n");
+    printf("good\tbye\n");
     return 0;
 }
